@@ -27,6 +27,6 @@ For detecting the facial expression in image you can execute the command python 
 
 </br>
 IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE FACIAL EXPRESSION RECOGNITION MODEL FEEL FREE TO CONTACT ME:
-
+</br>
 Shivam Gupta: shivamguptasg1808@gmail.com
 
