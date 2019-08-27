@@ -5,9 +5,9 @@ This repository contain facial expression using cnn, you can also use webcam as 
 for dataset I use FER 2013 from kaggle, you can download here https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
 
 ## Dependency
-  Keras</br>
-  Tensorflow</br>
-  Opencv</br>
+* Keras</br>
+* Tensorflow</br>
+* Opencv</br>
 
 ## Pretrained model
 
@@ -24,4 +24,9 @@ For detecting the facial expression in image you can execute the command python 
 
 ## Output:</br>
 <img src="https://raw.githubusercontent.com/shivam1808/Facial-Expression-Recognition/master/result.jpg" alt="alt text" align="middle"/>
+
+</br>
+IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF THE FACIAL EXPRESSION RECOGNITION MODEL FEEL FREE TO CONTACT ME:
+
+Shivam Gupta: shivamguptasg1808@gmail.com
 
