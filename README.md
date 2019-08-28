@@ -11,7 +11,7 @@ for dataset I use FER 2013 from kaggle, you can download here https://www.kaggle
 
 ## Pretrained model
 
-For keras model you can download here https://drive.google.com/file/d/0B6yZu81NrMhSV2ozYWZrenJXd1E/view?usp=sharing and put in keras_model file
+For keras model you can download here https://drive.google.com/open?id=1tvoXCMzDActfOW9ru3Yl4dN3Et1QWXVt and put in keras_model file
 
 ## How to use
 
